@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/porawapat.mutarapat">
-    <img src="https://github.com/user-attachments/assets/4bf20a7f-da08-4481-9f01-597886a55613" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="facebook Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
