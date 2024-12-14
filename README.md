@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/dECBf0xnwQKCPZOkiC" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-workshop-coding-dECBf0xnwQKCPZOkiC">via GIPHY</a></p>
-  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 **porawapat-github/porawapat-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
