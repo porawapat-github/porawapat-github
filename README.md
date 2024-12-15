@@ -14,6 +14,7 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgxaGs0bHNrYzZtbzJwaGh2b3M1ODlhMXl2ZGZ0OTg5aDB0Mmk3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="375"/>
 </div><br>
 
