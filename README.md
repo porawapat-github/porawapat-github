@@ -29,8 +29,9 @@ About Me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 <br><div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+</div>
+<br><div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" width="500" height="375"/>
 </div><br>
