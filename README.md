@@ -11,6 +11,12 @@
 
 <div align="center">
   <h1>Hi there 👋</h1>
+</div><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
 </div>
 
 
