@@ -29,6 +29,7 @@ About Me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <br><div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" width="500" height="375"/>
 </div><br>
