@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <br><div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -8,7 +7,9 @@
   <a href="https://www.facebook.com/porawapat.mutarapat">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div>
+</div><br>
+
+## Hi there 👋
 
 **porawapat-github/porawapat-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
