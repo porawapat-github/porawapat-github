@@ -9,7 +9,7 @@
   </a>
 </div><br>
 
-## Hi there 👋
+<h1 align="center>Hi there 👋</h1>
 
 **porawapat-github/porawapat-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
