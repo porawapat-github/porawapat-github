@@ -17,15 +17,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgxaGs0bHNrYzZtbzJwaGh2b3M1ODlhMXl2ZGZ0OTg5aDB0Mmk3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="375"/>
 </div><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" width="500" height="375"/>
-</div><br>
-
-
-
-
-**porawapat-github/porawapat-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" width="500" height="375"/>
+</div><br>
