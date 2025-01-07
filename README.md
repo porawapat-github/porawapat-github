@@ -57,7 +57,7 @@ Passionate about software development, problem-solving, and exploring new techno
   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoftoffice-colored.svg" width="36" height="36" alt="Microsoft 365" /></a>
+  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank"><img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="36" height="36" alt="Microsoft 365" /></a>
 </p>
 
 ### 🛠️ Databases & UI/UX  
