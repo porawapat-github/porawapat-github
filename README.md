@@ -18,6 +18,6 @@
 </div><br>
 
 About Me:
-![KroppaGıfGIF (2)](https://github.com/user-attachments/assets/e35b65b7-2925-4179-9fe0-96071fcec26a)
+
 
 
