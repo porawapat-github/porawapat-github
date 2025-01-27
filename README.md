@@ -71,6 +71,7 @@ Passionate about software development, problem-solving, and exploring new techno
 ---
 
 ### 🤼‍♂️ Group work
+[Allprojects](Allprojects.md)
 
 
 
