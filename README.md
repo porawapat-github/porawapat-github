@@ -71,7 +71,7 @@ Passionate about software development, problem-solving, and exploring new techno
 ---
 
 ### 🤼‍♂️ Group work
-[Allprojects](Allprojects/Hashing  Type Linked list.pdf)
+[Allprojects](Hashing  Type Linked list.pdf)
 
 
 
