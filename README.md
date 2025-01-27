@@ -71,7 +71,7 @@ Passionate about software development, problem-solving, and exploring new techno
 ---
 
 ### 🤼‍♂️ Group work
-- [Website Service(ระบบเว็บไซต์สถานะโรงแรมและจองโรง)]()
+- [Website Service(ระบบเว็บไซต์สถานะโรงแรมและจองโรง)](group work/NOVA-20GALAXY-20HOTEL.pdf)
 
 
 
