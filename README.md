@@ -71,7 +71,7 @@ Passionate about software development, problem-solving, and exploring new techno
 
 # 🤼‍♂️Group work
 ### 📖Subjects
-- Web Technology and Web Services
+- Web Technology and Web Services (โค้ดอยู่ใน repositories Web-Service)
   - [Website Service(ระบบเว็บไซต์สถานะโรงแรมและจองโรง)](group_work/NOVA-20GALAXY-20HOTEL.pdf)<br>
 
 - System Analysis and Design
