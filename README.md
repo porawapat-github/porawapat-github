@@ -78,7 +78,8 @@ Passionate about software development, problem-solving, and exploring new techno
 - System Analysis and Design
   - [ทำระบบและวิเคราห์ E-BOOK System](group_work/System-Analysis.pdf)
 
-
+- Fundamentals of Artificial Intelligence
+  - [Ship Object Detection](Ship.pdf)
 
 
 
