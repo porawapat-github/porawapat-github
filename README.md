@@ -69,7 +69,7 @@ Passionate about software development, problem-solving, and exploring new techno
 
 ---
 
-# 🤼‍♂️Group work
+# 🤼‍♂️Project
 ### 📖Subjects
 - Web Technology and Web Services
   - โค้ดอยู่ใน repositories Web-Service 
