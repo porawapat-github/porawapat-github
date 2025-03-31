@@ -81,8 +81,9 @@ Passionate about software development, problem-solving, and exploring new techno
 - Fundamentals of Artificial Intelligence
   - [Ship Object Detection](Ship.pdf)
     # Diagram
-    - [E-Book Sytem]([https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=1](https://app.diagrams.net/#G16PMTtykk9-gkR5ZHgBDst-vpgVY-uSKl#%7B%22pageId%22%3A%22JPmPAqn0E3lG4BfRR4UJ%22%7D))
+    - [E-Book Sytem]([https://app.diagrams.net/#G16PMTtykk9-gkR5ZHgBDst-vpgVY-uSKl#%7B%22pageId%22%3A%228rGAIhufStcROzXrXjFn%22%7D])
 
+[![Cyber Board Game Video](Img/Video.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=1)
 
 
 
